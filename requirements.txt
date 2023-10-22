@@ -1,0 +1,4 @@
+click==8.1.7
+django-decouple==2.1
+idna==3.4
+requests==2.31.0
